@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		99977BA920A9C6CD00DF5A57 /* branchTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 99977BA820A9C6CD00DF5A57 /* branchTest.m */; };
+		99977BAC20A9D05A00DF5A57 /* branch2.m in Sources */ = {isa = PBXBuildFile; fileRef = 99977BAB20A9D05A00DF5A57 /* branch2.m */; };
 		99D2E2AE20A7D781003F4464 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 99D2E2AD20A7D781003F4464 /* AppDelegate.m */; };
 		99D2E2B120A7D781003F4464 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 99D2E2B020A7D781003F4464 /* ViewController.m */; };
 		99D2E2B420A7D781003F4464 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99D2E2B220A7D781003F4464 /* Main.storyboard */; };
@@ -35,6 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		99977BA720A9C6CD00DF5A57 /* branchTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = branchTest.h; sourceTree = "<group>"; };
+		99977BA820A9C6CD00DF5A57 /* branchTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = branchTest.m; sourceTree = "<group>"; };
+		99977BAA20A9D05A00DF5A57 /* branch2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = branch2.h; sourceTree = "<group>"; };
+		99977BAB20A9D05A00DF5A57 /* branch2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = branch2.m; sourceTree = "<group>"; };
 		99D2E2A920A7D781003F4464 /* lzhlzhGitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lzhlzhGitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99D2E2AC20A7D781003F4464 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		99D2E2AD20A7D781003F4464 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +116,10 @@
 				99D2E2B720A7D781003F4464 /* LaunchScreen.storyboard */,
 				99D2E2BA20A7D781003F4464 /* Info.plist */,
 				99D2E2BB20A7D781003F4464 /* main.m */,
+				99977BA720A9C6CD00DF5A57 /* branchTest.h */,
+				99977BA820A9C6CD00DF5A57 /* branchTest.m */,
+				99977BAA20A9D05A00DF5A57 /* branch2.h */,
+				99977BAB20A9D05A00DF5A57 /* branch2.m */,
 			);
 			path = lzhlzhGitTest;
 			sourceTree = "<group>";
@@ -266,6 +276,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				99D2E2B120A7D781003F4464 /* ViewController.m in Sources */,
+				99977BA920A9C6CD00DF5A57 /* branchTest.m in Sources */,
+				99977BAC20A9D05A00DF5A57 /* branch2.m in Sources */,
 				99D2E2BC20A7D781003F4464 /* main.m in Sources */,
 				99D2E2AE20A7D781003F4464 /* AppDelegate.m in Sources */,
 			);
